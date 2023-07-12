@@ -17,18 +17,3 @@ script-providers:
   vendor:
     url: https://raw.githubusercontent.com/johnnyp382/clash_premium_config/master/config/dashboard/assets/vendor-827b5617.js
     interval: 86400
-
-mixed-port: 7890
-allow-lan: true
-bind-address: '*'
-mode: rule
-log-level: info
-ipv6: true
-external-controller: ':9090'
-external-ui: dashboard
-secret: xxxxxx
-tun:
-  enable: true
-  stack: system
-  auto-route: true
-  auto-detect-interface: true
