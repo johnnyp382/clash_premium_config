@@ -8,10 +8,10 @@ script-providers:
   workbox_js:
     url: https://raw.githubusercontent.com/johnnyp382/clash_premium_config/master/config/dashboard/workbox-e0782b83.js
     interval: 86400
-  index:
+  index_5E90:
     url: https://raw.githubusercontent.com/johnnyp382/clash_premium_config/master/config/dashboard/assets/index-5e90ca00.js
     interval: 86400
-  index:
+  index_6D88:
     url: https://raw.githubusercontent.com/johnnyp382/clash_premium_config/master/config/dashboard/assets/index-6d88662b.css
     interval: 86400
   vendor:
